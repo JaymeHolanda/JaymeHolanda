@@ -58,4 +58,4 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia! Acredito que a tecnologia pode melhorar a vida das pessoas.
+"As raízes dos estudos são amargas, mas seus frutos são doces."
