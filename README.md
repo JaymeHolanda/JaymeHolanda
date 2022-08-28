@@ -1,4 +1,4 @@
-### ## Olá! Eu sou Jayme Holanda 🖐️
+### ## Olá! Eu sou o Jayme Holanda 🖐️
 
 
 - 🔭 Bacharelando em Sistema de Informações  ...
@@ -39,7 +39,7 @@
 
 
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu estou estudando atualmente!
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
