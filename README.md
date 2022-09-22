@@ -39,7 +39,7 @@
 
 
 
-## Tecnologias que eu estou estudando atualmente!
+## Tecnologias que eu estudo!
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -49,13 +49,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-## Tecnologias que tenho interesse Futuramente 😍! 
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div><br/>
 
 "As raízes dos estudos são amargas, mas seus frutos são doces."
