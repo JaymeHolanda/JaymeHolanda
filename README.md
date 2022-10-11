@@ -2,7 +2,8 @@
 
 
 - 🔭 Bacharelando em Sistema de Informações  ...
-- 🌱 Estudando HTML e CSS, Banco de dados e Python
+- 📚 Bacharel em Direito. 
+- 📚 Conhecimento e Experiência em Marketing Digital e Gestão de Tráfego.
 
 
   <a href="https://github.com/JaymeHolanda">
@@ -18,7 +19,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/c553aa5d827cbfee045010c32a600267d75f458c761410fe2a0fa9d67f46b92c/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4e79744d4c4b79696149683656483953506d2f67697068792e676966">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b9520748db5bd319ecebc76f5104ea9753471bbbf0ad&rid=giphy.gif&ct=s">
 </div>
 
 ## Contatos
@@ -29,7 +30,8 @@
   <a href = "mailto:jaymeholanda.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jayme-holanda-59886b248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://g.redditmedia.com/JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38.gif?fm=mp4&mp4-fragmented=false&s=17edc85cac9d803ac700d058ac6ddbb6)
  
 </div>
 
