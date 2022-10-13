@@ -1,4 +1,4 @@
-### ## Olá! Eu sou o Jayme Holanda 🖐️
+### ## Olá! Eu sou o Jayme Holanda 🖖	<img align="center" alt="html5" src="https://img.shields.io/github/followers/JaymeHolanda?style=social" />
 
 
 - 🔭 Bacharelando em Sistema de Informações  ...
