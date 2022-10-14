@@ -15,7 +15,7 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b9520748db5bd319ecebc76f5104ea9753471bbbf0ad&rid=giphy.gif&ct=s">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/146/14693.gif">
 </div>
 
 ## Contatos
