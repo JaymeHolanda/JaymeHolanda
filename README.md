@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/jayme-holanda-59886b248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
-  ![Snake animation](https://g.redditmedia.com/JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38.gif?fm=mp4&mp4-fragmented=false&s=17edc85cac9d803ac700d058ac6ddbb6)
+  ![Snake animation](https://giffiles.alphacoders.com/214/214388.gif)
  
 </div>
 
