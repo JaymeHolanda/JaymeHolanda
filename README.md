@@ -1,8 +1,7 @@
 ### ## Olá! Eu sou o Jayme Holanda 🖖	<img align="center" alt="html5" src="https://img.shields.io/github/followers/JaymeHolanda?style=social" />
 
 
-- 🔭 Bacharelando em Sistema de Informações  ...
-- 📚 Bacharel em Direito. 
+- 🔭 Bacharelando em Sistema de Informações. Estou no 3º Período .
 - 📚 Conhecimento e Experiência em Marketing Digital e Gestão de Tráfego.
 
 <div>
