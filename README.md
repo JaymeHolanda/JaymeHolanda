@@ -5,7 +5,7 @@
 - 📚 Conhecimento UI/UX Desing Thinking.
 - 📚Full Stacks
 - 💡Monitor Github/Git/GitBash / Front-End UNIESP
-- ✨ Secretário da Liga Acadêmica L.A.T.I.M
+- ✨ Secretário Geral da Liga Acadêmica L.A.T.I.M
 
 <div>
 
