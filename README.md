@@ -7,16 +7,12 @@
 - 💡Monitor Git/GitBash / Front-End UNIESP
 - ✨ Secretário Geral da Liga Acadêmica L.A.T.I.M
 
-<div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaymeHolanda&show_icons=true&bg_color=00000000) <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaymeHolanda&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
 
-<div style="display: inline_block"><br>
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/146/14693.gif">
-</div>
+[![JaymeHolanda](https://github-readme-stats.vercel.app/api?username=JaymeHolanda&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    [![JaymeHolanda](https://github-readme-stats.vercel.app/api/top-langs/?username=JaymeHolanda&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Contatos
 
