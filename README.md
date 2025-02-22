@@ -1,10 +1,9 @@
 ### ## Olá! Eu sou o Jayme Holanda 🖖	<img align="center" alt="html5" src="https://img.shields.io/github/followers/JaymeHolanda?style=social" />
 
-- 📚Bacharel em Direito.
-- 📚 Bacharelando em Sistema de Informações. Estou no 4º Período .
-- 📚 Conhecimento UI/UX Desing Thinking.
+- 📚Engenharia e Análise de Dados 
+- 📚 Bacharelando em Sistema de Informações. .
+- 📚 UI/UX Desing Thinking.
 - 📚Full Stacks
-- 💡Monitor Git/GitBash / Front-End UNIESP
 - ✨ Secretário Geral da Liga Acadêmica L.A.T.I.M
 
 
