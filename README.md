@@ -94,17 +94,38 @@ Engenheiro e Analista de Dados apaixonado por transformar dados em insights estr
 
 ## 🚀 Projetos
 
-### 🔍 Análise Preditiva de Churn
-- **Descrição**: Desenvolvimento de um modelo de machine learning para prever a probabilidade de churn de clientes em uma empresa de telecomunicações.
-- **Tecnologias**: Python, Pandas, Scikit-learn, Matplotlib.
+### 📊 **Dashboard de Previsão de Vendas**
+
+- **Descrição**: Criação de um dashboard dinâmico para monitoramento de métricas de vendas e previsões futuras utilizando Power BI. O objetivo é ajudar gestores a identificar tendências sazonais e planejar estoques com antecedência.
+- **Tecnologias**: Power BI, SQL, MySQL, Python (Pandas).
 - **Link**: [Demo](#) (em breve)
 
-### 📊 Dashboard Interativo de Vendas
-- **Descrição**: Criação de um dashboard dinâmico para monitoramento de métricas de vendas em tempo real utilizando Power BI.
-- **Tecnologias**: Power BI, SQL, MySQL.
+---
+
+### 💳 **Dashboard de Análise de Crédito**
+
+- **Descrição**: Desenvolvimento de um dashboard interativo para análise de crédito, exibindo métricas como taxa de aprovação, inadimplência e perfil de clientes. A solução apoia decisões estratégicas em instituições financeiras.
+- **Tecnologias**: Power BI, SQL, Python (Scikit-learn).
 - **Link**: [Demo](#) (em breve)
 
-### 🌐 Web Scraping para Análise de Mercado
+---
+
+
+### 📱 **Dashboard de Análise de Sentimentos em Redes Sociais**
+
+- **Descrição**: Desenvolvimento de um dashboard para monitoramento de sentimentos em redes sociais, exibindo métricas como engajamento, polaridade de sentimentos e principais tópicos discutidos. A ferramenta ajuda marcas a ajustar estratégias de marketing.
+- **Tecnologias**: Power BI, Python (NLTK, TextBlob), Twitter API.
+- **Link**: [Demo](#) (em breve)
+
+---
+
+### 🏥 **Dashboard de Saúde Pública com Dados do SUS**
+
+- **Descrição**: Criação de um dashboard interativo para visualização de métricas de saúde pública no Brasil, como taxas de vacinação, internações e mortalidade. Os dados são extraídos de fontes públicas do Sistema Único de Saúde (SUS).
+- **Tecnologias**: Power BI, SQL, Python (Pandas).
+- **Link**: [Demo](#) (em breve)
+
+### 🌐 **Web Scraping para Análise de Mercado de ações brasileiras**
 - **Descrição**: Extração e análise de dados de sites de e-commerce para identificar tendências de mercado.
 - **Tecnologias**: Python, BeautifulSoup, Pandas.
 - **Link**: [Demo](#) (em breve)
