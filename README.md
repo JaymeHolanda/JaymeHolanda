@@ -3,7 +3,6 @@
 - 📚Engenharia e Análise de Dados 
 - 📚 Bacharelando em Sistema de Informações. .
 - 📚 UI/UX Desing Thinking.
-- 📚Full Stacks
 - ✨ Secretário Geral da Liga Acadêmica L.A.T.I.M
 
 
