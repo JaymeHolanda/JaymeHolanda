@@ -128,7 +128,7 @@ Engenheiro e Analista de Dados apaixonado por transformar dados em insights estr
 ### 🌐 **Web Scraping para Análise de Mercado de ações brasileiras**  
 - **Descrição**: Extração e análise de dados de sites de e-commerce para identificar tendências de mercado.
 - **Tecnologias**: Python, BeautifulSoup, Pandas, Matplotlib.
-- **Link**: [Repositorio](https://github.com/JaymeHolanda/acoesbrasileiras](https://github.com/JaymeHolanda/acoesbrasileiras)) 
+- **Link**: [Repositorio](https://github.com/JaymeHolanda/acoesbrasileiras.git) 
 
 ---
 
